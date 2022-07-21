@@ -1,0 +1,6 @@
+.result {
+    max-width: 600px;
+    min-height: 100px;
+    background-color: rgb(169, 226, 255);
+    font-size: 20px;
+}
